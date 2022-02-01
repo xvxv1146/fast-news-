@@ -28,7 +28,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: url(http://s9.picofile.com/file/8335682268/Newspaper_Cup_of_tea.jpg);
+    background: url(https://iranfreepik.ir/wp-content/uploads/2021/08/%D8%A8%DA%A9%DA%AF%D8%B1%D8%A7%D9%86%D8%AF-%DA%A9%D8%B1%D9%87-%D8%B2%D9%85%DB%8C%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%81%D8%B1%DB%8C-%D9%BE%DB%8C%DA%A9.jpg);
     background-size: cover;
     background-position: center center;
 
@@ -87,6 +87,21 @@
     font-family: Arial, Helvetica, sans-serif;
     
     left: 80%;
+}
+.c{
+    position: absolute;
+    border-style: outset;
+    border-width: 3px;
+    background-color: rgb(218, 218, 218);
+    border-radius: 8px;
+    font-size: 15px;
+    width: 379px;
+    height: 30px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 15%;
+    left: 70%;
+    
 }
 
     
